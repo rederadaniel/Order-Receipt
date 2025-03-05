@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    background: url("https://img.freepik.com/free-photo/abstract-empty-dark-white-grey-gradient-with-black-solid-vignette-lighting-studio-wall-floor-background-well-use-as-backdrop-background-empty-white-room-with-space-your-text-picture_1258-71703.jpg?semt=ais_hybrid") 
+    no-repeat center center/cover;
+    background-attachment: fixed;
+    text-align: center;
+    padding: 10px;
+    color: rgba(22, 22, 22, 0.959);
+}
+
+h1 {
+    letter-spacing: 3px;
+}
+
+.order-container {
+    background: rgba(134, 134, 134, 0.11);
+    padding: 20px;
+    border-radius: 10px;
+    display: inline-block;
+    min-width: 580px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid rgba(22, 22, 22, 0.5);
+    text-align: center;
+    background: rgba(141, 141, 141, 0.2);
+}
+
+th {
+    background: rgba(97, 97, 97, 0.603);
+    color: white;
+}
